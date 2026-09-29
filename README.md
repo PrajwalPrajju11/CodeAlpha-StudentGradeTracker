@@ -72,6 +72,3 @@ No.   Name                 Grade
 3     Charlie              95.00
 ```
 
-## Author
-
-Built as part of the CodeAlpha Java Programming Internship.
